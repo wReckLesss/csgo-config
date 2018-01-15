@@ -1,3 +1,6 @@
+# BananaGaming Text Color Mod
+Script from [BananaGaming](https://bananagaming.tv/pages/text-color-mod-v3)
+Installation instructions also written by BananaGaming
 ## Installation
 1. Choose which version you want, then copy csgo_bananagaming.txt
 2. Paste the file inside this folder: 
